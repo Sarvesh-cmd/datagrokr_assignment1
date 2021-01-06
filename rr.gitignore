@@ -1,0 +1,4 @@
+*.env
+*.csv
+/home/force--2017228/datagrokr/my-exciting-project/test-runs/logs
+/home/force--2017228/datagrokr/my-exciting-project/build
